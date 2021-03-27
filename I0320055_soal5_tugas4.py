@@ -1,4 +1,4 @@
-s = "Besok Adani main golf"
+s = "Besok Idani main golf"
 
 # Panjangnya harusnya 20
 print("panjang dari s = %d" % len(s))
